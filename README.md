@@ -2,6 +2,6 @@
 
 # shadowsocks-heroku
 
-1. [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/PressX2Win/shadowsocks-heroku).
+1. [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/PressX2Win/shadowsocks-heroku/blob/re).
   
  
